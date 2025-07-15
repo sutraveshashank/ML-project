@@ -1,1 +1,1 @@
-Anomoly detection in medical devices
+Anomaly detection in medical devices
